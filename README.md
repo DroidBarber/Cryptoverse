@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Cryptoverse🌌 by DroidBarber
+Building an advanced Crypto Web App using React best practices with State Management using Redux Toolkit, UI Creation using Ant Design, creating crypto charts using Chart.js, and fetching data from multiple sources using RapidAPI.
+
+### SOFTWARE TECHNOLOGIES: 
+•antd <br>
+•@ant-design/icons <br>
+•react-redux<br>
+•@reduxjs/toolkit<br>
+•axios <br>
+•chart.js<br>
+•html-react-parser <br>
+•millify<br>
+•moment <br>
+•react-chartjs-2<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
